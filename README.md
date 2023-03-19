@@ -32,7 +32,7 @@ Boolean value that indicates that the test run and coverage was successful.
 
 ## Example usage
 
-    uses: lucienmakutano/python-django-coverage-gitHub-action@1.0.2
+    uses: lucienmakutano/python-django-coverage-gitHub-action@latest
     with:
       django-apps: 'your_app'
       minimum-coverage: '86'
